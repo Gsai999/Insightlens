@@ -58,7 +58,7 @@ streamlit run app.py
 Plaintext
 InsightLens/
 │
-├── app.py                  # Main Streamlit application entry point
+├── App.py                  # Main Streamlit application entry point
 ├── requirements.txt        # Project dependencies & package versions
 ├── modules/
 │   ├── __init__.py
@@ -75,16 +75,6 @@ Explore Quality & Statistics: Navigate through tabs to view dataset dimensions, 
 
 Generate Visualizations: Select specific columns to instantly render interactive charts and correlation matrices.
 
-👨‍💻 Author
-Ganpa Sai Baba (Reg. No. 094255510205)
-
-Program: Master of Computer Applications (M.C.A) - III Semester
-
-Institution: Prof. G. Ram Reddy Centre for Distance Education, Osmania University, Hyderabad
-
-📄 License
-This project is developed for academic purposes as part of the MCA curriculum under Osmania University.
-
 
 ---
 
@@ -95,3 +85,4 @@ This project is developed for academic purposes as part of the MCA curriculum un
    ```bash
    git add README.md
    git commit -m "Add professional project README.md"
+   git push origin main
